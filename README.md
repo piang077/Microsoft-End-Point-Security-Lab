@@ -39,4 +39,181 @@ This project reflects **real-world cybersecurity operations used by IT and SOC t
 - Cloud Identity Management  
 - Endpoint Protection Monitoring  
 
-### Security Architecture Flow
+
+---
+
+# 4. Implementation Steps
+
+## 1️⃣ Identity and Access Management
+
+Created **users and security groups** in **Microsoft Entra ID**.
+
+Configured:
+
+- User accounts
+- Security groups
+- Role assignments
+
+This simulates **enterprise identity management for device and policy access control.**
+
+---
+
+## 2️⃣ Virtual Machine Deployment
+
+Created **Windows Virtual Machines** and configured them to:
+
+- Join the organisation's **Entra ID domain**
+- Allow user authentication using enterprise credentials
+
+This replicates **corporate endpoint onboarding.**
+
+---
+
+## 3️⃣ Device Enrollment into Intune
+
+Devices were enrolled into **Microsoft Intune** for **centralised endpoint management.**
+
+Configured:
+
+- Device registration
+- Device compliance policies
+- Endpoint security configuration
+
+This allows organisations to **manage devices remotely and enforce security standards.**
+
+---
+
+## 4️⃣ Microsoft Defender for Endpoint Integration
+
+Enabled and connected **Microsoft Defender for Endpoint**.
+
+Configured **endpoint onboarding** so devices report telemetry to the **Defender Security Portal**.
+
+Capabilities enabled:
+
+- Threat detection
+- Incident investigation
+- Endpoint monitoring
+
+---
+
+# 5. Endpoint Security Policies
+
+Configured multiple **enterprise security policies** in **Microsoft Intune.**
+
+---
+
+## Antivirus Protection
+
+Implemented **Microsoft Defender Antivirus** policies including:
+
+- Real-time protection
+- Scheduled scanning
+- Cloud-delivered protection
+
+---
+
+## Firewall Protection
+
+Configured **Windows Defender Firewall policies** to control **inbound and outbound traffic.**
+
+Purpose:
+
+- Reduce attack surface
+- Prevent unauthorized network access
+
+---
+
+## Attack Surface Reduction (ASR)
+
+Configured **Attack Surface Reduction rules** to block common malware techniques.
+
+Examples:
+
+- Block Office applications from creating child processes
+- Prevent credential theft
+- Block executable content from email attachments
+
+---
+
+## SmartScreen and Phishing Protection
+
+Enabled **Microsoft Defender SmartScreen**
+
+Features enabled:
+
+- Malicious website blocking
+- Phishing protection
+- Application reputation checking
+
+---
+
+# 6. Conditional Access
+
+Configured access policies using **Microsoft Entra ID**.
+
+Examples:
+
+- Allow login **only from compliant devices**
+- Enforce **device compliance checks**
+
+This ensures **only secure and managed devices can access company resources.**
+
+---
+
+# 7. Vulnerability and Patch Management
+
+Used **Microsoft Defender Vulnerability Management** to identify missing security updates.
+
+Performed:
+
+- Patch monitoring
+- Vulnerability assessment
+- Security recommendations
+
+This demonstrates **basic vulnerability management and patching processes used by enterprise security teams.**
+
+---
+
+# 8. Security Monitoring
+
+Using the **Microsoft Defender Security Portal**, monitored:
+
+- Device security status
+- Vulnerability exposure
+- Threat alerts
+- Endpoint security posture
+
+This simulates **SOC monitoring of enterprise endpoints.**
+
+---
+
+---
+
+# 10. Key Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+- Identity and Access Management
+- Endpoint Security
+- Endpoint Detection & Response (EDR)
+- Vulnerability Management
+- Security Policy Implementation
+- Microsoft Security Stack
+- Device Compliance and Conditional Access
+
+---
+
+# 11. Real-World Relevance
+
+This lab simulates **enterprise endpoint security operations** commonly performed by:
+
+- SOC Analysts
+- Endpoint Security Engineers
+- IT Security Administrators
+- IT Support Security Teams
+
+It demonstrates the **end-to-end lifecycle of securing corporate devices**, from **identity onboarding to endpoint threat protection**.
+
+---
+
