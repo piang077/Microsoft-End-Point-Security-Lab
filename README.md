@@ -1,4 +1,4 @@
-<img width="1093" height="907" alt="image" src="https://github.com/user-attachments/assets/9ae2bcd1-82e2-46c5-a3ac-3a7c5138e747" /># Enterprise Endpoint Security Lab – Microsoft Intune & Microsoft Defender for Endpoint
+# Enterprise Endpoint Security Lab – Microsoft Intune & Microsoft Defender for Endpoint
 
 ## 1. Project Overview
 
