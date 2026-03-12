@@ -108,7 +108,7 @@ Implemented **Microsoft Defender Antivirus** policies including:
 - Real-time protection
 - Scheduled scanning
 - Cloud-delivered protection
-
+![AV]((https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/createdavpolicy.png))
 ---
 
 ## Firewall Protection
@@ -118,8 +118,8 @@ Configured **Windows Defender Firewall policies** to control **inbound and outbo
 Purpose:
 
 - Reduce attack surface
-- Prevent unauthorized network access
-
+- Prevent unauthorised network access
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/createfirewallpolicy.png)
 ---
 
 ## Attack Surface Reduction (ASR)
@@ -131,7 +131,7 @@ Examples:
 - Block Office applications from creating child processes
 - Prevent credential theft
 - Block executable content from email attachments
-
+![Entra Users](screenshots/entra-users.png)
 ---
 
 ## SmartScreen and Phishing Protection
@@ -143,7 +143,7 @@ Features enabled:
 - Malicious website blocking
 - Phishing protection
 - Application reputation checking
-
+![Entra Users](screenshots/entra-users.png)
 ---
 
 # 6. Conditional Access
@@ -156,7 +156,7 @@ Examples:
 - Enforce **device compliance checks**
 
 This ensures **only secure and managed devices can access company resources.**
-
+![Entra Users](screenshots/entra-users.png)
 ---
 
 # 7. Vulnerability and Patch Management
@@ -170,7 +170,7 @@ Performed:
 - Security recommendations
 
 This demonstrates **basic vulnerability management and patching processes used by enterprise security teams.**
-
+![Entra Users](screenshots/entra-users.png)
 ---
 
 # 8. Security Monitoring
