@@ -159,7 +159,7 @@ Examples:
 - Enforce **device compliance checks**
 
 This ensures **only secure and managed devices can access company resources.**
-![Entra Users](screenshots/entra-users.png)
+![Compliance Checks](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/devicetobecompliant.png)
 ---
 
 # 7. Vulnerability and Patch Management
