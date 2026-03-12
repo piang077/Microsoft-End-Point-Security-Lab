@@ -68,22 +68,17 @@ Created **Windows Virtual Machines** and configured them to:
 
 This replicates **corporate endpoint onboarding.**
 
-![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/test1-2vm.png)
-![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/test1-2devices.png)
+![Virtual Machine](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/test1-2vm.png)
+![Join Entra ID Domain](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/test1-2devices.png)
 
 ---
 
 ## 3️⃣ Device Enrollment into Intune
 
 Devices were enrolled into **Microsoft Intune** for **centralised endpoint management.**
-
-Configured:
-
-- Device registration
-- Device compliance policies
-- Endpoint security configuration
-
 This allows organisations to **manage devices remotely and enforce security standards.**
+
+![Enrollment Into Intune](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/test1-2onintune.png)
 
 ---
 
