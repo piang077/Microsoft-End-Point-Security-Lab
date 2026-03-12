@@ -108,7 +108,7 @@ Implemented **Microsoft Defender Antivirus** policies including:
 - Real-time protection
 - Scheduled scanning
 - Cloud-delivered protection
-![AV]((https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/createdavpolicy.png))
+![AV](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/createdavpolicy.png)
 ---
 
 ## Firewall Protection
