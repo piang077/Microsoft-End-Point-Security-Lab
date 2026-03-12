@@ -180,20 +180,6 @@ This demonstrates **basic vulnerability management and patching processes used b
 ![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/completeupdatevul.png)
 ![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/normorebrowservul.png)
 
----
-
-# 8. Security Monitoring
-
-Using the **Microsoft Defender Security Portal**, monitored:
-
-- Device security status
-- Vulnerability exposure
-- Threat alerts
-- Endpoint security posture
-
-This simulates **SOC monitoring of enterprise endpoints.**
-
----
 
 ---
 
@@ -216,9 +202,7 @@ This project demonstrates practical experience in:
 This lab simulates **enterprise endpoint security operations** commonly performed by:
 
 - SOC Analysts
-- Endpoint Security Engineers
 - IT Security Administrators
-- IT Support Security Teams
 
 It demonstrates the **end-to-end lifecycle of securing corporate devices**, from **identity onboarding to endpoint threat protection**.
 
