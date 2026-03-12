@@ -52,9 +52,10 @@ Configured:
 
 - User accounts
 - Security groups
-- Role assignments
 
-This simulates **enterprise identity management for device and policy access control.**
+Created user accounts and security groups in Microsoft Entra ID to simulate **enterprise identity and access management**. 
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/allusertask3.png)
+![Groups](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/windowhrgroupcreated.png))
 
 ---
 
