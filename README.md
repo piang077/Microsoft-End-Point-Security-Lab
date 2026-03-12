@@ -175,8 +175,10 @@ Performed:
 This demonstrates **basic vulnerability management and patching processes used by enterprise security teams.**
 ![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/vulrequestremediation.png)
 ![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/patchvul.png)
-![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/vulrequestremediation.png)
-![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/vulrequestremediation.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/browserupdate.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/updatesucceed.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/completeupdatevul.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/normorebrowservul.png)
 
 ---
 
