@@ -129,9 +129,8 @@ Configured **Attack Surface Reduction rules** to block common malware techniques
 Examples:
 
 - Block Office applications from creating child processes
-- Prevent credential theft
 - Block executable content from email attachments
-![Entra Users](screenshots/entra-users.png)
+![ASR](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/attacksurpolicy.png)
 ---
 
 ## SmartScreen and Phishing Protection
@@ -143,7 +142,11 @@ Features enabled:
 - Malicious website blocking
 - Phishing protection
 - Application reputation checking
-![Entra Users](screenshots/entra-users.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/smartscreen.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/enhancephishingprotection.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/webcontentfiltering.png)
+![Entra Users](https://github.com/piang077/Microsoft-End-Point-Security-Lab/blob/main/ScreenShots/webcontentblock.png)
+
 ---
 
 # 6. Conditional Access
