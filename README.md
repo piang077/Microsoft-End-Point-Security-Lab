@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project demonstrates a **hands-on enterprise endpoint security implementation** using Microsoft cloud security technologies. The lab simulates how organisations manage identities, devices, and endpoint protection using **Microsoft Entra ID, Microsoft Intune, and Microsoft Defender for Endpoint**.
+This project demonstrates a **hands-on enterprise endpoint security implementation** using Microsoft cloud security technologies. The lab simulates how organisations manage identities, devices, and endpoint protection using **Microsoft Entra ID, Microsoft Intune, Microsoft Defender Vulnerability Management  and Microsoft Defender for Endpoint**.
 
 The objective of this lab was to configure a secure environment that includes:
 
