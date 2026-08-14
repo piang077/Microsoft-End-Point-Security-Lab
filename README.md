@@ -1,4 +1,4 @@
-# Enterprise Endpoint Security Lab – Microsoft Intune & Microsoft Defender for Endpoint
+# Enterprise Endpoint Security Project – Microsoft Intune & Microsoft Defender for Endpoint
 
 ## 1. Project Overview
 
